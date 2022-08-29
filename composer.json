@@ -1,0 +1,17 @@
+{
+    "name": "liujinyong\/zhutong-api",
+    "description": "APi base on zhutong",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liujinyong",
+            "email": "893296814@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Liujinyong\\ZhutongApi\\": "src"
+        }
+    }
+}
